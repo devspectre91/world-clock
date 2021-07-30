@@ -1,0 +1,25 @@
+#root{
+    min-height:100vh;
+}
+
+.card{
+    height: 280px;
+    width: 450px;
+    padding: 1rem;
+}
+
+.empty{
+    height:0;
+    
+}
+
+span{
+    font-size: 3.2rem;
+}
+.level-item{
+    width: 40%;
+}
+
+.tag{
+    cursor: pointer;
+}
