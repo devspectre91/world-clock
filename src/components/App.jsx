@@ -33,7 +33,7 @@ class App extends React.Component {
           {" "}
           🚀 Timers 🚀
         </h1>
-        <div className="level p-0">
+        <div className="level container p-0">
           <div className="level-item ">
             <div
               className="button is-dark"

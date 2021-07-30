@@ -68,12 +68,6 @@ export default class StopWatch extends React.Component {
         })
     }
 
-    //Doing some string interpolation
-
-
- 
-
-    
 }
   startTimer() {
 
